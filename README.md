@@ -36,8 +36,8 @@ The application uses LangGraph to orchestrate a workflow through the following c
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/ai-content-creator.git
-   cd ai-content-creator
+   git clone https://github.com/Abdelrahman-Mahmoud9/AI-Content-Creator.git   
+   cd AI-Content-Creator
    ```
 
 2. Install dependencies:
