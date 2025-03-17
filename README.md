@@ -123,5 +123,5 @@ This project uses two main API integrations:
 
 ## Sample Output
 
-A sample HTML output is included in the `output` directory once you run the application.
-There is a sample output for the topic mistral_ai_outperforms_gpt-4o_mini in the `output` folder
+- A sample HTML output is included in the `output` directory once you run the application.
+- There is a sample output for the topic mistral_ai_outperforms_gpt-4o_mini in the `output` folder.
