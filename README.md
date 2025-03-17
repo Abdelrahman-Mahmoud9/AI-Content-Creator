@@ -100,8 +100,6 @@ The agent includes a component-specific logging system that captures:
 - **Run-specific IDs**: Each run gets a unique timestamp identifier
 - **Error Logging**: Detailed error reports if the workflow fails
 
-To extend logging for other components, you can implement additional logging functions similar to `log_discovery` in the topic discovery component.
-
 ## Graph Visualization
 
 The project includes a graph visualization tool (`generate_graph.py`) that:
@@ -126,8 +124,4 @@ This project uses two main API integrations:
 ## Sample Output
 
 A sample HTML output is included in the `output` directory once you run the application.
-
-## Credits
-
-- Lepton AI for providing the API access to Llama 3.3 70B and SDXL
-- LangGraph for the workflow orchestration framework
+There is a sample output for the topic mistral_ai_outperforms_gpt-4o_mini in the `output` folder
