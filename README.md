@@ -46,17 +46,10 @@ The application uses LangGraph to orchestrate a workflow through the following c
    ```
 
 3. Set up environment variables:
-   ```
-   cp .env.template .env
-   ```
-   The .env file is already configured with the Lepton API key.
+   Make .env file 
+   Put Your API for Leptopn LEPTON_API_KEY=*******************************
 
 ## Usage
-
-1. Generate the workflow visualization (optional):
-   ```
-   python generate_graph.py
-   ```
 
 2. Run the main application:
    ```
