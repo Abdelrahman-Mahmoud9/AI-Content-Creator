@@ -1,0 +1,35 @@
+===== 2025-03-18 02:05:56 =====
+Generated HTML for: Mistral AI Outperforms GPT-4o Mini
+
+Image path: output/images/blog_image_7124.png
+Output path: output\mistral_ai_outperforms_gpt-4o_mini.html
+
+HTML preview:
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Revolutionizing Language Understanding: How Mistral AI Surpasses GPT-4</title>
+    <style>
+        :root {
+            --primary-color: #3498db;
+            --secondary-color: #2c3e50;
+            --text-color: #333;
+            --background-color: #f5f5f5;
+            --content-background: #ffffff;
+        }
+        
+        body {
+            ...
+---
+
+State summary:
+{
+  "title": "Mistral AI Outperforms GPT-4o Mini",
+  "html_length": 18357,
+  "image_path": "output/images/blog_image_7124.png",
+  "run_id": "20250318_015950"
+}
+

@@ -1,0 +1,16 @@
+digraph {
+	discover_topics
+	human_selection
+	generate_content
+	refine_content
+	generate_image
+	create_html
+	END
+	discover_topics -> human_selection
+	human_selection -> generate_content
+	generate_content -> refine_content
+	refine_content -> refine_content [label="count < 4"]
+	refine_content -> generate_image [label="count >= 4"]
+	generate_image -> create_html
+	create_html -> END
+}
